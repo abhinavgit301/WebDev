@@ -1,0 +1,15 @@
+p {
+    color: blueviolet
+}
+h1 {
+    color: rgb(6, 188, 243);
+}
+button {
+    background-color: rgb(98, 99, 78);
+    font-family:'Orbitron', sans-serif; /* Futuristic font */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid rgb(118, 119, 91);
+    border-radius: 7px;
+}
